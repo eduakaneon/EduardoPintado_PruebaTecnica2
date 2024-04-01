@@ -49,8 +49,9 @@ La funcionalidad de filtrar turnos por estado de atención aún no ha sido imple
 
 ### Correcciones observadas:
 
-1. Las clases JpaController deberian ir en el paquete de persistencia en vez de el de logica.
-2. El nombre del paquete podria cambiarse a uno mas representativo.
+1. Las clases JpaController deberian ir en el paquete de persistencia.
+2. El nombre del paquete deberia cambiarse a uno mas representativo.
+3. Han sido borrados todos los archivos DS_Store.
 
 
 
